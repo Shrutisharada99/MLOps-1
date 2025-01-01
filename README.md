@@ -1,2 +1,2 @@
-# MLOps-1
-My MLOps project
+# MLOps - 1
+MLOps project
